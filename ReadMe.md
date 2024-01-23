@@ -1,5 +1,5 @@
 # Hi! I'm Bruno Andrade
-💭 Olá! Sou desenvolvedor Android, tenho um ano de experiência na área de desenvolvimento Android.
+💭 Olá! Sou desenvolvedor Android, tenho um ano de experiência na área de desenvolvimento Android/Kotlin.
 
 👨🏼‍💻Em 2023, comecei a estudar o desenvolvimento Android nativo na linguagem Kotlin, criando aplicativos utilizando as seguintes tecnologias: 
 
