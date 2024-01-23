@@ -1,5 +1,9 @@
 # Hi! I'm Bruno Andrade
-💭 I work developing Android apps using Kotlin<br><br>
+💭 Olá! Sou desenvolvedor Android, tenho um ano de experiência na área de desenvolvimento Android.
+
+👨🏼‍💻Em 2023, comecei a estudar o desenvolvimento Android nativo na linguagem Kotlin, criando aplicativos utilizando as seguintes tecnologias: 
+
+🎯 Kotlin | Android SDK | ViewGroups | Git | GitHub | APIs RESTful | Clean Architecture (MVVM) | Testes Unitários | Couroutines | LiveData | Jetpack Compose | Retrofit | Room Database  | Orientação objetos | RecyclerView | Metodologia SCRUM    <br><br>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=BrunoAnndrade&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
