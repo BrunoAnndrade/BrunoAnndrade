@@ -1,5 +1,6 @@
-# Hi! I'm Bruno Andrade
-💭 *Desenvolvedor Android* em transição de carreira com 2 anos dedicado aprimorar meus conhecimento na linguagem Kotlin.
+# Ola, Meu nome é Bruno Andrade!
+
+Desenvolvedor Android# em transição de carreira com 2 anos dedicado aprimorar meus conhecimento na linguagem Kotlin.
 
 👨🏼‍💻Em 2022, comecei a estudar o desenvolvimento Android, criando aplicativos utilizando as seguintes tecnologias: 
 
