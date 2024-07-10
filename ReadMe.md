@@ -1,4 +1,4 @@
-# Ola, Meu nome é Bruno Andrade!
+# Olá, Meu nome é Bruno Andrade!
 
 Desenvolvedor Android# em transição de carreira com 2 anos dedicado aprimorar meus conhecimento na linguagem Kotlin.
 
