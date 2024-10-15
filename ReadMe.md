@@ -1,11 +1,7 @@
-# Olá, Meu nome é Bruno Andrade!
+# Hi! I'm Bruno Andrade!
 
-**Desenvolvedor Android** em transição de carreira com 2 anos dedicado aprimorar meus conhecimento no Back End e mobile.
+Studenta degree in Computer Science, I am transitioning to a career in Back End development, using the programming languages Java and Kotlin. For the past 3 years, I have been dedicating my studies to Back End and Mobile development through specialized courses and personal projects.
 
-👨🏼‍💻Em 2022, comecei a estudar o desenvolvimento **Android**, criando aplicativos utilizando as seguintes tecnologias: 
-
-🎯 Kotlin | Android SDK | Clean Code | Dagger Hilt | FireBase | Couroutines | APIs RESTful | Clean Architecture (MVVM) | Testes Unitários | Couroutines | LiveData e Flow | Jetpack Compose | Retrofit | SQLite | Orientação objetos | RecyclerView  <br><br>
-
-**Contato:**
+**Contact me on:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoanndrad/) 
